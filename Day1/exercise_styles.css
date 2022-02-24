@@ -1,0 +1,70 @@
+#goBack {
+  color: black;
+  font-size: 20px;
+  text-align: right;
+}
+
+.kembali {
+  text-align: right;
+}
+.image {
+  display: inline-block;
+}
+
+.gambar {
+  margin-left: 50px;
+
+  display: inline-block;
+  overflow: hidden;
+  width: 400px;
+  height: 550px;
+}
+#h1 {
+  color: black;
+
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+}
+#h2 {
+  color: black;
+  margin-top: 30px;
+
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  align-items: center;
+}
+#h3 {
+  color: grey;
+  margin-top: 50px;
+
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+}
+#text {
+  color: black;
+  margin-top: 20px;
+  font-size: 16px;
+}
+#size {
+  color: black;
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: small;
+}
+#medium {
+  color: black;
+  margin-top: 20px;
+  font-weight: 800;
+  font-size: larger;
+}
+
+#button {
+  color: white;
+  margin-top: 50px;
+  background-color: black;
+  width: 147px;
+  height: 48px;
+}
